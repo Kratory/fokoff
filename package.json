@@ -1,0 +1,17 @@
+{
+  "name": "hwidbot",
+  "version": "1.0.0",
+  "description": "Resurrection HWID handler for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "《《 Soul 》》#1598",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.5.0",
+    "fs": "0.0.1-security",
+    "mysql": "^2.16.0"
+  }
+}
